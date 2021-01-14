@@ -1,6 +1,6 @@
 trigger:
 - '*'
-
+#test
 pool:
   vmImage: 'ubuntu-18.04'
   demands:
